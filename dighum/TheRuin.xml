@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<poem>
+	<l n="1"><glory>Wondrous</glory><normal-text> is this </normal-text><structure>wall-stead</structure><normal-text>,</normal-text> <decay>wasted</decay><normal-text> by fate.</normal-text></l>
+	<l n="2"><structure>Battlements</structure> <decay>broken</decay><normal-text>,</normal-text> <structure><glory>giant’s work</glory></structure> <decay>shattered</decay><normal-text>.</normal-text></l>
+	<l n="3"><structure>Roofs</structure><normal-text> are in </normal-text><decay>ruin</decay><normal-text>,</normal-text> <structure>towers</structure> <decay>destroyed</decay><normal-text>,</normal-text></l>
+	<l n="4"><decay>Broken</decay><normal-text> the barred </normal-text><structure>gate</structure><normal-text>,</normal-text> <decay>rime</decay><normal-text> on the </normal-text><structure>plaster</structure><normal-text>,</normal-text></l>
+	<l n="5"><structure>walls</structure> <decay>gape</decay><normal-text>,</normal-text> <decay>torn up</decay><normal-text>,</normal-text> <decay>destroyed</decay><normal-text>,</normal-text></l>
+	<l n="6"><decay>consumed by age</decay><normal-text>. Earth-grip holds</normal-text></l>
+	<l n="7"><normal-text>the</normal-text> <glory>proud</glory><normal-text> builders, </normal-text><decay>departed</decay><normal-text>,</normal-text> <decay>long lost</decay><normal-text>,</normal-text></l>
+	<l n="8"><normal-text>and the hard grasp of the grave, until </normal-text><decay>a hundred generations</decay></l>
+	<l n="9"><normal-text>of people have passed. Often this </normal-text><structure>wall</structure> <glory>outlasted</glory><normal-text>,</normal-text></l>
+	<l n="10"><decay>hoary with lichen</decay><normal-text>,</normal-text> <decay>red-stained</decay><normal-text>, withstanding the storm,</normal-text></l>
+	<l n="11"><normal-text>one reign after another; the </normal-text><structure>high arch</structure><normal-text> has now </normal-text><decay>fallen</decay>.</l>
+	<l n="12"><normal-text>The </normal-text><structure>wall-stone</structure><normal-text> still stands, </normal-text><decay>hacked</decay><normal-text> by weapons,</normal-text></l>
+	<l n="13"><normal-text>by grim-ground files.</normal-text></l>
+	<l n="14"><normal-text>...</normal-text></l>
+	<l n="15"><normal-text>...</normal-text></l>
+</poem>

@@ -1,0 +1,43 @@
+.container {
+    margin-left: 200px;
+    margin-right: 200px;
+}
+p {
+    color: white;
+}
+.line {
+    background-color: black;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+#poem {
+    text-align: center;
+}
+.normal-text {
+    color: inherit;
+}
+.line:hover {
+    color: white;
+}
+.normal-text:hover {
+    color: white;
+}
+.structure {
+    color: red;
+}
+.structure:hover {
+    color: red;
+}
+.glory {
+    color: gold;
+}
+.glory:hover {
+    color: gold;
+}
+.decay {
+    color: green;
+}
+.decay:hover {
+    color: green;
+}
