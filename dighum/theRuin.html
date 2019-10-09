@@ -19,8 +19,8 @@
         }
 
         function displayResult() {
-            xml = loadXMLDoc("{{xml_file}}");
-            xsl = loadXMLDoc("{{xsl_file}}");
+            xml = loadXMLDoc("./static/TheRuin.xml");
+            xsl = loadXMLDoc("./static/theRuinStyle.xslt");
 // code for IE
             if (window.ActiveXObject || xhttp.responseType === "msxml-document") {
                 ex = xml.transformNode(xsl);
@@ -37,7 +37,7 @@
         }
     </script>
 
-    <link rel="stylesheet" type="text/css" href="/static/main.css">
+    <link rel="stylesheet" type="text/css" href="./static/main.css">
 </head>
 <body onload="displayResult()">
 <div class='container'>
