@@ -21,19 +21,10 @@
         function displayResult() {
             xml = loadXMLDoc("static/TheRuin.xml");
             xsl = loadXMLDoc("static/theRuinStyle.xslt");
-// code for IE
-            if (window.ActiveXObject || xhttp.responseType === "msxml-document") {
-                ex = xml.transformNode(xsl);
-                document.getElementById("poem").innerHTML = ex;
-            }
-// code for Chrome, Firefox, Opera, etc.
-            else if (document.implementation && document.implementation.createDocument) {
-                xsltProcessor = new XSLTProcessor();
-                xsltProcessor.importStylesheet(xsl);
-                resultDocument = xsltProcessor.transformToFragment(xml, document);
-                document.getElementById("poem").appendChild(resultDocument);
-                console.log(resultDocument);
-            }
+            xsltProcessor = new XSLTProcessor();
+            xsltProcessor.importStylesheet(xsl);
+            resultDocument = xsltProcessor.transformToFragment(xml, document);
+            document.getElementById("poem").appendChild(resultDocument);
         }
     </script>
 
