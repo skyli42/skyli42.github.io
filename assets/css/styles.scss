@@ -1,0 +1,22 @@
+---
+---
+
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    margin: auto;
+}
+
+.wrapper p{
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.wrapper img{
+    padding-left: 5px;
+    padding-right: 5px;
+}
