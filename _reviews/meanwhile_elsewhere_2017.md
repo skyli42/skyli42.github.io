@@ -8,9 +8,7 @@ post_url: meanwhileelsewhere
 
 
 
-
-<!-- <img style="float: right;" src="/assets/covers/dancingMonsters2010.jpg"> -->
-![Woke John Watson](/assets/covers/meanwhileelsewhere.jpeg#left)
+![cover](/assets/covers/meanwhileelsewhere.jpeg#left)
 
 **Editors**: Cat Fitzpatrick and Casey Plett
 

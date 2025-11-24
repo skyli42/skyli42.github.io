@@ -12,7 +12,7 @@ layout: default
   {%- if site.reviews.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Reviews" }}</h2>
     <ul class="post-list">
-      {%- for post in site.reviews -%}
+      {%- for post in site.reviews reversed -%}
       <li>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
