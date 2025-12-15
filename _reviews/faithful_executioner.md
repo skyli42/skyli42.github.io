@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "The Faithful Executioner: Life and Death, Honor and Shame in the Turbulent Sixteenth Century (2013)"
+date:   2025-12-14
+categories: jekyll update
+post_url: faithfulexecutioner
+---
+
+![cover](/assets/covers/faithfulexecutioner.jpeg#left)
+
+**Author**: Joel F. Harrington
+
+**Format**: Audiobook (Narrator: James Gillies)
+
+_The Faithful Executioner_ is, at its core, a biography of Franz Schmidt, Nuremberg's official executioner in the late 16th and early 17th centuries; the text draws primarily upon his personal journal of ~700 executions and non-capital punishments meted out to various criminals under the jurisdiction of the city. The book follows Schmidt's long journey to regain honour for his family following the forcible conscription of his father as an executioner by the notorious prince Albert II ("Bellator" or "Alcibiades") of Brandenburg-Kulmbach. Through his dutiful service to the city of Nuremberg, his reputation for honesty and piety, and his side-job as a healer, Schmidt is eventually able to request for a formal restitution of honour from the Holy Roman Emperor (Ferdinand II) that allows him (and more relevantly, his children) to attain honourable employment (though, as Harrington notes, all of his children die childless, dashing Schmidt's hopes of a restored family line). 
+
+As is expected in such a work, Harrington uses Schmidt's life and duties as an opportunity to explore early modern European society more broadly, especially in aspects related to crime and death. A core theme brought out by Harrington the outsized role that honour and status played in early modern Europe---Schmidt's family line is immediately dishonoured by the single execution his father is forced to carry out and it takes an entire lifetime of reputation building to attempt to break free of the dishonour of being an executioner. This also plays into a very interesting tension present throughout Schmidt's life; as an agent of the state, he is (when he does his job correctly) viewed as an impartial hand of justice, God's will embodied on Earth. Yet simultaneously, the actual person of Franz Schmidt is undeniably harmed through his profession; as Harrington explains, executioners at the time were invariably treated on par with criminals, drunkards, and the like. Partially this was due to the distasteful nature of the job (involving not only the act of execution or punishment itself but also carrying out torture sessions to extract confessions from those thought to be criminals), but even more prominently, it seems, was the mere frequent and highly publicized _contact_ with the dishonourable castes of early modern society. These, and many more mundane aspects of early modern society, are discussed at length by Harrington, who successfully paints a very colourful picture of daily life in the period in a way that both seems extraordinarily familiar and yet fundamentally _odd_ to modern sensibilities. 
+
+That said, a key strength of _The Faithful Executioner_ is the focus that it places on Schmidt himself. While many works in this style would simply use Schmidt's life as an excuse to perform a wider survey of European society (which can be enjoyable in their own right), Harrington repeatedly emphasizes the Schmidt's perspective and, in particular, tries his best to extract whatever details about Schmidt's mental state can be gleaned merely from his relatively Spartan journal entries: entries where Schmidt relates, in great detail, the horrific nature of the crimes the accused are said to have carried out, followed by a longer-than-standard description of the accuseds' executions, are taken to indicate Schmidt felt particularly offended by crimes of a certain nature. Along these lines, Harrington notes that Schmidt (for example) seems relatively unperturbed by homosexuality[^1] [^2], but almost incensed by the one instance of bestiality mentioned in his journal. In general, Schmidt seems particularly offended by crimes that endanger people in their homes (e.g. burglary) or seem to contravene the established social order, which provides an interesting insight into his personal character. The focus on Schmidt lends a large amount of credibility to Harrington's argument (entirely contained within the epilogue) that the past should not be viewed as an unconscionably horrifying society to live in. While specific norms from early modern society seem bizarre or extraordinarily cruel to us (notably including, stereotypically, the role of capital and corporal punishment), Harrington points out that extended periods of incarceration, for example, would be equally bizarre to an early modern European. Getting an in-depth glimpse at Schmidt's mental state throughout the book allows Harrington to show that, even if his actions may not be _justifiable_ or _moral_, there does exist a logic to the role of an executioner (and, by extension, capital punishment) that made sense in context[^3]. 
+
+
+---
+
+[^1]: Before we start stanning Schmidt, note that he did, in fact, still carry out these executions for sodomy. 
+
+[^2]: Ok but also the first (of two) people he executes for sodomy is a fucking "fruitier" of all things 😭😭😭😭 wdym the gay guy is a fruit seller 😭😭😭😭 (poor guy)
+
+[^3]: Though one seemingly relevant question that may have been extremely interesting to explore that wasn't is how living in a society that, by default, assumed souls would go to an afterlife impacts one's thoughts on capital punishment. A huge amount of emphasis is placed on dying a good death and repenting, with the assumption that this would allow even the worst of criminals to go to heaven---presumably this decreases the horror of the finality of execution, but by how much?
