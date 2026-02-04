@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gideon the Ninth (and also Harrow the Ninth, Nona the Ninth)"
+title:  "Gideon the Ninth (and also Harrow the Ninth, Nona the Ninth) (2019, 2020, 2022)"
 date:   2026-01-03
 categories: jekyll update
 post_url: gideonninth
