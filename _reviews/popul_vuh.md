@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Popul Vuh: A Retelling"
+title:  "Popul Vuh: A Retelling (2020)"
 date:   2026-03-16
 categories: jekyll update
 post_url: populvuhprose
