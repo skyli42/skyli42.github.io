@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "The Romans: A 2000-Year History (2025)"
+date:   2026-03-16
+categories: jekyll update
+post_url: romanswatts
+---
+
+<img src = "/assets/covers/romanswatts.jpg">
+
+
+**Author**: Edward J. Watts 
+
+**Format**: Audiobook (Narrator: John Curless)
+
+
+_The Romans: A 2000-Year History_ is a general narrative history of Rome from its foundation (in the 700s/800s BCE) to the fall of Constantinople in the Fourth Crusade. As hinted at by its slightly unusual temporal boundaries, Watts focuses on the continuity of the Roman state and its instutions over its long history; as such, the Fourth Crusade marks the moment when the Roman state founded by Romulus* ceases to exist. _The Romans_ therefore follows in the steps of what seems to be most modern Roman / Byzantine historians in their emphasis on the Roman-ness of the 'Byzantine' state (e.g. Anthony Kaldellis's _The New Roman Empire_). Watts emphasizes the slow evolution of the Roman state over its two thousand year history; in particular, he highlights the flexibility of Roman institutions in their ability to incorporate new ideas, strategies, tactics, etc., from their neighbours and enemies while still maintaining a strong conservative streak that generally prevented truly revolutionary change in a manner that risked the survival of the state itself. Watts explicitly notes in the introduction that, given the wide focus, _The Romans_ attempts to present more of an institutional history that is specifically less focused on the Great Men™️of Roman history than traditional narrative histories might be. This comes through somewhat in the text, as, given a 2000-year survey, Watts barely spends any focused amount of time on any singular person or period of Roman history; for example, each emperor gets at most a single chapter of focus in the text, though potentially their reign can be shown to have much longer lasting impacts. 
+
+
+In general, I found the book very enjoyable; it mostly presents a sequence of very bite-sized summaries of key periods of Rome's history in a way that seems accessible to people both familiar and new to Roman history (including, in particular, Byzantine/Eastern Roman history) - despite e.g. theoretically consuming entire podcasts on Roman history through to the fall of Constantinople, I found it nice to both be reminded of key events throughout Roman history and to be presented with longer-term connections and continuities that are only possible in this general survey format. However, despite the focus on institutional history / coherence over time, the book does devolve into a pretty typical narrative history by the time the empire rolls around, though Watts makes attempts to highlight the most important moments of continuity / change. This is especially notable with regard to Watts's primary narrative of Roman incorporation and inclusivity; a key theme throughout the book, that seems pretty explicitly designed to push back against modern right-wing narratives of Roman history, is that Rome flourished when the state and its people viewed themselves as expanding Roman citizenship to all who wanted it. That said, I greatly enjoyed the chapters discussing the Roman Republic and its foundations, which generally chunked segments of Republican history into thematic blocks (e.g. the expansion of Rome as the great power in the Mediterranean, the collapse of Republican values); I would have appreciated similar longer-term analyses for the Imperial era. I especially would have liked more focus on the moments of change - specifically the transition from republic to empire. Given the emphasis on the continuity of institutions, I think these moments of radical change deserved significantly more time. Notably, all of Augustus's rise and reign is covered in a single chapter; surely there's more to say about how he justified the transition and so on. Some of it is implicit, but overall, the change in institutional structures definitely could have be made more explicit.
