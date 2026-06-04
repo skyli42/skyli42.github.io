@@ -18,4 +18,4 @@ _On the Natural History of Destruction_ is a collection of essays by author/lite
 
 The main essay itself I found to be an interesting reflection in of itself on the bombings, though halfway through I remembered that this was really a work of literary criticism and started getting a bit lost as it focused more on specific authors / novels. There is a distinct emphasis on West German works specifically - there's a brief aside in which Sebald offhandedly dismisses the existence of East German literature about the bombings, which apparently was a pretty notable oversight. The other essays in the book were interesting enough - they focus on the works of Alfred Andersch, Jean Améry, and Peter Weiss, respectively. The first is a rather amusing dunk session on Andersch, who Sebald clearly does not think highly of, and the other two explore how Améry grappled with his experience during the Holocaust and Weiss's evocation of cruelty as a commentary(?) on public executions. 
 
-idk I'm not smart enough for this tbh just gimme the historical tomes. 
+idk it was cool I'm not smart enough for this tbh just gimme the historical tomes.  
