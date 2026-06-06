@@ -3,7 +3,7 @@ layout: post
 title:  "City of Quartz: Excavating the Future in Los Angeles (1990/2008)"
 date:   2026-02-13
 categories: jekyll update
-post_url: bookimaginarybeings
+post_url: cityofquartz
 ---
 
 ![cover](/assets/covers/cityquartz.jpg#left)
