@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Life Ceremony (2019)"
-date:   2026-06-22
+date:   2026-06-28
 categories: jekyll update
 post_url: memorypolice
 ---
