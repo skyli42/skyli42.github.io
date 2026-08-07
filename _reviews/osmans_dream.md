@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  " Osman's Dream: The History of the Ottoman Empire  (2005)"
+title:  "Osman's Dream: The History of the Ottoman Empire (2005)"
 date:   2026-07-15
 categories: jekyll update
 post_url: osmansdream
