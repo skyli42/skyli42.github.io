@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lost Worlds: How Humans Tried, Failed, Succeeded, and Built Our World"
+title:  "Lost Worlds: How Humans Tried, Failed, Succeeded, and Built Our World (2026)"
 date:   2026-05-23
 categories: jekyll update
 post_url: lostworlds

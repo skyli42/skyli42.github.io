@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Drowning Girl: A Memoir"
+title:  "The Drowning Girl: A Memoir (2012)"
 date:   2026-05-21
 categories: jekyll update
 post_url: drowninggirl
